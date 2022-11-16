@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_</name>
+   <tag></tag>
+   <elementGuidId>e9cd5185-b647-4356-9881-a59e7cbc79a2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.aCsJod.oJeWuf</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='mG61Hd']/div[2]/div/div[2]/div/div/div/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d12533df-836a-4271-af2e-3db02457cac0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>aCsJod oJeWuf</value>
+      <webElementGuid>7f4487ef-00a4-4374-8ab0-a762f2f27eaf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Мой ответ</value>
+      <webElementGuid>f366f59a-732c-4009-8139-e11f9945a454</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mG61Hd&quot;)/div[@class=&quot;RH5hzf RLS9Fe&quot;]/div[@class=&quot;lrKTG&quot;]/div[@class=&quot;o3Dpx&quot;]/div[@class=&quot;Qr7Oae&quot;]/div[1]/div[@class=&quot;geS5n&quot;]/div[@class=&quot;AgroKb&quot;]/div[@class=&quot;rFrNMe k3kHxc RdH0ib yqQS1 zKHdkd&quot;]/div[@class=&quot;aCsJod oJeWuf&quot;]</value>
+      <webElementGuid>d73da4b9-852e-4385-9ad7-6119113e7b27</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='mG61Hd']/div[2]/div/div[2]/div/div/div/div[2]/div/div</value>
+      <webElementGuid>171ca134-de45-4aa7-8fce-8799a9adfb56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::div[4]</value>
+      <webElementGuid>777fb102-2b58-4df5-ab4d-985f6add41ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name'])[1]/following::div[4]</value>
+      <webElementGuid>09e9d073-f28f-415f-b4a1-f468d7759585</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/preceding::div[9]</value>
+      <webElementGuid>859a7c5a-b7f0-4592-bbf3-da6ce8e5e62e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/preceding::div[9]</value>
+      <webElementGuid>4f391d3a-ad18-44ad-b6a2-42877ec27cb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/div/div/div[2]/div/div</value>
+      <webElementGuid>d76ebd08-9b5c-494f-8060-bf91e39aa11c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Мой ответ' or . = 'Мой ответ')]</value>
+      <webElementGuid>486cc44c-7b99-48e0-ae62-8e6301508af1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
